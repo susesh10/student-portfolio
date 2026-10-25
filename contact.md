@@ -1,11 +1,8 @@
 # Contact
 
-Use only professional contact information you are comfortable making public.
+**Name:** Anjana Susesh Talari  
+**Email:** susesh1006@gmail.com  
+**GitHub:** [https://github.com/susesh10](https://github.com/susesh10)  
+**LinkedIn:** [https://www.linkedin.com/in/anjana-susesh-talari-34716137a](https://www.linkedin.com/in/anjana-susesh-talari-34716137a)
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** Add your profile URL if available
-- **Location:** Optional — city or region only
-
-**Privacy reminder:** Do not publish your home address, passwords, access tokens, or other sensitive information in a public repository.
+Feel free to connect for academic or project-related discussions.

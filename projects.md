@@ -1,26 +1,15 @@
 # Projects
 
-Add clear, honest descriptions of academic and personal projects.
+## 1. Project Aether
+- **Problem:** Need for a personal AI assistant that can remember context and help with daily tasks.
+- **Solution:** Developing a multi-model AI agent with memory, tools, and voice interaction.
+- **Technologies:** Python, FastAPI, Large Language Models, MongoDB
+- **My Contribution:** Complete design and ongoing development
+- **Possible Improvement:** Better long-term memory and multi-agent capabilities
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
-
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
-
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+## 2. StudyForge (In Progress)
+- **Problem:** Students find it difficult to revise notes and generate quality practice questions.
+- **Solution:** An AI-powered study assistant that summarizes notes, generates questions, and explains concepts simply.
+- **Technologies:** Python, FastAPI, LLM APIs, PDF processing
+- **My Contribution:** Full development
+- **Possible Improvement:** Add spaced repetition and weak-topic tracking

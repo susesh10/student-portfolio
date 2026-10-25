@@ -1,18 +1,15 @@
 # Education
 
-## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+## B.Tech in Artificial Intelligence and Machine Learning
+**Aditya College of Engineering**  
+2025 – 2029 (Expected)
 
-## Relevant Coursework
-- Programming Fundamentals
-- Data Structures and Algorithms
-- Database Management Systems
-- Computer Networks
-- Software Engineering
+### Relevant Coursework
+- Programming for Problem Solving
+- Data Structures
+- Object Oriented Programming
+- Artificial Intelligence (ongoing)
 
-## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+### Achievements
+- Actively working on personal AI projects
+- Learning version control and collaborative development

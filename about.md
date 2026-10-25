@@ -1,18 +1,13 @@
 # About Me
 
 ## Introduction
-I am **Your Name**, a B.Tech student in Computer Science and Engineering at **Your College Name**.
+I am **Anjana Susesh Talari**, a B.Tech student in Artificial Intelligence and Machine Learning at Aditya College of Engineering.
 
 ## Career Objective
-To begin my career as a software developer, apply my programming and problem-solving skills, and continue learning through real-world projects.
+To build practical AI tools and gain strong skills in software development while working toward long-term independence and meaningful projects.
 
 ## Interests
-- Data Structures and Algorithms
-- Java and Python programming
-- Web development
-- Open-source collaboration with Git and GitHub
-
-## Current Learning Goals
-1. Practise coding problems consistently.
-2. Build and document small projects.
-3. Learn collaborative development workflows.
+- Artificial Intelligence and Machine Learning
+- Python and Backend Development
+- Building real tools (not just tutorials)
+- Git and collaborative development
